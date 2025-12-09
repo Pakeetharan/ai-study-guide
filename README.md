@@ -17,3 +17,4 @@ A context-aware AI tool that turns PDF course materials into professional study 
 4.  Run **Step 2** to upload your files and generate the guide.
 
 ---
+*Created with Python, LangChain, and Llama-3.*
